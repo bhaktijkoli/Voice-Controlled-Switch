@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_8d2b2dd890cd0235d477657c1e9dea0bcb7b6feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_90b27f141773236f1523b3962baca7c57f370499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9de397a549d3c8ad2e99f54504b32538cfe00664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_19f655f8736ab612adb8151369f876cc83606996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_a72449f7be3dbe7fce9e6bd66084a8a0d7ad7dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_e0d6cfba4b8f7f6f6118546eb1a16e2b0f7935c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_11fd604d1c736c2a4dd2aa5622c8ecb0c76079b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_8d5cec102fa8e2033761da09629e73655d3c80e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\voiceControlledSwitch\react-native-voice\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="85fb0b91fd172270bf5130f342908eec2aca7d88">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\voiceControlledSwitch-react-native-voice-unspecified_763ee93156611072930113d711efcc20143bc5eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_6321c33363a7a2186997cfb61680745d4b485e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_40182aee41bdd45339080f2a53180888f6671930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_41efb20fbdf0050c1ad7fb1ebba2991499b0e7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_0e03f4ce0a6272c10af04cd5412cd55a0328853b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_83deefa6909464d89ebd50ee3dbc6079e18c31b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_c4b7ac0d830256549d2e309a1466b238c39ee73e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_569472aa6cd0c252ace96ff282aa4e3857cfc759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_9b81b4f9279573c9c6106acdb0f460371a519535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_e561dc2f69cf1ef322f0393459356347878a2572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7092f88ae663c86dc3daa078ce2399504f8c039b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_23abf795040ef18f9eb1f362b38228ad99e45af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHK\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_d08e5e111e2fd3be0ddbe1bd382dbce53d3efef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\React\voiceControlledSwitch\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98405efd12cedef863b0f072e9cd25b53a117e78">
+        <dex dex="E:\React\voiceControlledSwitch\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.1_1b102e6b856b0b928e6cec188d6479f692ff0987.jar" />
+    </item>
+
+</items>
